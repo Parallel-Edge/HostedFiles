@@ -1,0 +1,41 @@
+[
+	{
+		"id": "ee0631f0-fa31-4fec-b372-5bfa80fb9f92",
+		"name": "vpn.beckerfrondorf.com:4433(@bandf.com)",
+		"hostname": "vpn.beckerfrondorf.com:4433",
+		"domain": "bandf.com",
+		"authType": "",
+		"vpnProto": "auto",
+		"serverCert": "",
+		"clientCert": "",
+		"owner": "",
+		"isDefault": 1,
+		"isAlwaysOn": 0
+	},
+	{
+		"id": "ee0631f0-fa31-4fec-b372-5bfa80fb9f92",
+		"name": "test.testfrondorf.com:9999",
+		"hostname": "test.testfrondorf.com:9999",
+		"domain": "bandf.com",
+		"authType": "",
+		"vpnProto": "test",
+		"serverCert": "",
+		"clientCert": "",
+		"owner": "",
+		"isDefault": 1,
+		"isAlwaysOn": 0
+	},
+	{
+		"id": "6976e4a6-0ac2-4e0b-8086-aa87772bc027",
+		"name": "96.93.57.205:4333(administrator@LocalDomain)",
+		"hostname": "96.93.57.205:4333",
+		"domain": "LocalDomain",
+		"authType": "",
+		"vpnProto": "auto",
+		"serverCert": "",
+		"clientCert": "",
+		"owner": "PE-COLLIN\\Collin",
+		"isDefault": 0,
+		"isAlwaysOn": 0
+	}
+]
